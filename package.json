@@ -1,0 +1,19 @@
+{
+  "name": "hover-zoom",
+  "version": "1.0.0",
+  "description": "Adds zoom functionality to any image tag.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treblegni/hover-zoom.git"
+  },
+  "author": "treblegni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treblegni/hover-zoom/issues"
+  },
+  "homepage": "https://github.com/treblegni/hover-zoom#readme"
+}
